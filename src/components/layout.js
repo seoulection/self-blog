@@ -2,6 +2,7 @@ import React from "react"
 import { Link } from "gatsby"
 import styled from "styled-components"
 
+import Footer from "./footer"
 import { rhythm, scale } from "../utils/typography"
 
 class Layout extends React.Component {
@@ -17,6 +18,7 @@ class Layout extends React.Component {
             ...scale(1.5),
             marginBottom: rhythm(1.5),
             marginTop: 0,
+            fontFamily: `Inconsolata, sans-serif`
           }}
         >
           {title}
@@ -26,8 +28,8 @@ class Layout extends React.Component {
       header = (
         <h3
           style={{
-            fontFamily: `Montserrat, sans-serif`,
             marginTop: 0,
+            fontFamily: `Inconsolata, sans-serif`
           }}
         >
           <Link
@@ -35,6 +37,7 @@ class Layout extends React.Component {
               boxShadow: `none`,
               textDecoration: `none`,
               color: `inherit`,
+              fontFamily: `Inconsolata, sans-serif`
             }}
             to={`/`}
           >
@@ -51,14 +54,13 @@ class Layout extends React.Component {
             marginRight: `auto`,
             maxWidth: rhythm(24),
             padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+            fontFamily: `Inconsolata, sans-serif`
           }}
         >
           <header>{header}</header>
           <main>{children}</main>
         </div>
-        <Footer>
-          © {new Date().getFullYear()}, seoulection
-        </Footer>
+        <Footer />
       </Wrapper>
     )
   }
@@ -66,11 +68,6 @@ class Layout extends React.Component {
 
 const Wrapper = styled.div`
   min-height: 100vh;
-`
-
-const Footer = styled.footer`
-  text-align: center;
-  margin: 24px;
 `
 
 export default Layout

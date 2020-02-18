@@ -25,10 +25,11 @@ class IndexPage extends React.Component {
                 <h3
                   style={{
                     marginBottom: rhythm(1 / 4),
+                    fontFamily: `Inconsolata, sans-serif`
                   }}
                 >
                   <Link
-                    style={{ boxShadow: `none` }}
+                    style={{ boxShadow: `none`, fontFamily: `Inconsolata, sans-serif` }}
                     to={`blog${node.fields.slug}`}
                   >
                     {title}
