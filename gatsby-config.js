@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `seoulection blog`,
+    title: `things i like`,
     author: `seoulection`,
-    description: `A personal blog.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `a personal blog`,
+    siteUrl: `https://admiring-noyce-c68389.netlify.com`,
     social: {
       twitter: `seou1ection`,
     },

@@ -19,16 +19,7 @@ class Layout extends React.Component {
             marginTop: 0,
           }}
         >
-          <Link
-            style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-              color: `inherit`,
-            }}
-            to={location.pathname === `/`}
-          >
-            {title}
-          </Link>
+          {title}
         </h1>
       )
     } else {
