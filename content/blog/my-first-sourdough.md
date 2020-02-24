@@ -64,6 +64,6 @@ One of my 2020 New Year's Resolutions™ is to get into bread making. After gath
 
 #### Pictures
 
-![Full picture of my first sourdough](assets/P1010277.jpg "Full shot")
+![Full picture of my first sourdough](static/assets/P1010277.jpg "Full shot")
 
-![The crumb of my first sourdough](assets/P1010284.jpg "The crumb")
+![The crumb of my first sourdough](static/assets/P1010284.jpg "The crumb")
