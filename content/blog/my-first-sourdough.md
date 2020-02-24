@@ -61,9 +61,3 @@ One of my 2020 New Year's Resolutions™ is to get into bread making. After gath
 5. Bake with lid on for **27 minutes** and with lid off for **21 minutes**.
 6. Place the bread onto a cooling rack and let it rest for at least an hour.
 7. Enjoy!
-
-#### Pictures
-
-![Full picture of my first sourdough](static/assets/P1010277.jpg "Full shot")
-
-![The crumb of my first sourdough](static/assets/P1010284.jpg "The crumb")
