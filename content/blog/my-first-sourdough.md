@@ -8,13 +8,10 @@ One of my 2020 New Year's Resolutions™ is to get into bread making. After gath
 
 #### Ingredients
 
-\-100g whole rye sourdough starter
-
-\-310g water
-
-\-450g strong white flour
-
-\-8g salt
+* 100g whole rye sourdough starter
+* 310g water
+* 450g strong white flour
+* 8g salt
 
 #### Steps
 
