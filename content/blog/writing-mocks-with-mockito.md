@@ -61,7 +61,7 @@ Here is the class under test that uses the `generateRandomNumber()` method:
 class App {
     private NumberGenerator numberGenerator;
 
-    public ClassUnderTest(NumberGenerator numberGenerator) {
+    public App(NumberGenerator numberGenerator) {
         this.numberGenerator = numberGenerator;
     }
 
