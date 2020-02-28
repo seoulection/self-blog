@@ -5,8 +5,7 @@ class Footer extends React.Component {
     return (
       <p style={{
         textAlign: `center`,
-        margin: `24px`,
-        fontFamily: `Inconsolata, sans-serif`
+        margin: `24px`
       }}>
         © {new Date().getFullYear()}, seoulection
       </p>
