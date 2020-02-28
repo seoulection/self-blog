@@ -6,7 +6,7 @@ description: 'First solo sourdough, that is...'
 ---
 One of my 2020 New Year's Resolutions™ is to get into bread making. After gathering all of the equipment, my bread-making has been in full swing. Below are the steps that I took to create my first solo sourdough:
 
-## Ingredients
+#### Ingredients
 
 \-100g whole rye sourdough starter
 
@@ -16,7 +16,7 @@ One of my 2020 New Year's Resolutions™ is to get into bread making. After gath
 
 \-8g salt
 
-## Steps
+#### Steps
 
 1. Add starter and water to bowl. Break up the starter inside the water.
 2. Add flour and salt. Mix. Dough should be raggedy.
